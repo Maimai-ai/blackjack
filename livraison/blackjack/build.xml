@@ -44,6 +44,7 @@
         <delete dir="${build.home}"/>
         <delete dir="${build.test.home}"/>
         <delete dir="${dist.home}"/>
+        <delete dir="${doc.home}"/>
 
     </target>
 
@@ -58,6 +59,8 @@
         <mkdir dir="${dist.home}"/>
         
         <mkdir dir="${lib.home}"/>
+		
+        <mkdir dir="${doc.home}"/>
 
 		
     </target>
