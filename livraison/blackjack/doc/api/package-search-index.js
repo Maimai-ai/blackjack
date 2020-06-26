@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"blackjack"},{"l":"blackjack.modele"},{"l":"blackjack.vue"}]
